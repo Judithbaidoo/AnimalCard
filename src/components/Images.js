@@ -17,7 +17,7 @@ export function ProfilePicture (){
 export function AboutPicture (){
   return (
 
-    <img className="image" src = "https://www.scotsman.com/webimg/b25lY21zOjg4Zjk0YTg5LTRkNWQtNDlhYi1hMzliLWE0NzRkNjc1MGZkNToxMjRjOGQ4NS00MGY4LTQ1M2YtOWU3Yy0yZmQzYmY0NjMxODk=.jpg?crop=61:45,smart&width=800"  alt = "cat1" />
+    <img className="image" src = "https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif"  alt = "cat1" />
 
   )
 };
