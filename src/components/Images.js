@@ -2,14 +2,14 @@ import React from "react";
 
 export function Pictures() {
   return (
-    <img className="image" src = "https://images.unsplash.com/photo-1593483316242-efb5420596ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" alt="cat"/>
+    <img className="image" src="https://media.giphy.com/media/xTDkSGXmXmAnB5fEBg/giphy.gif" />
   )
 };
 
 export function ProfilePicture (){
   return (
 
-    <img className="image" src = "https://image.petmd.com/files/styles/863x625/public/orange-tabby-kitten-walking-across-floor.jpg?w=1920&q=75"  alt = "cat1" />
+    <img className="image" src = "https://media.giphy.com/media/MWSRkVoNaC30A/giphy.gif"  alt = "cat1" />
 
   )
 };
@@ -29,5 +29,7 @@ export function FunFPicture (){
 
   )
 };
+
+
 
 

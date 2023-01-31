@@ -1,9 +1,16 @@
 import React from "react";
 import {ProfilePicture} from "./Images";
+import { Link } from "react-router-dom";
+
 
 export function Profile(){
     return (
     <div className="border1">
+        <Link to = "/">
+            <button className="back"> back
+            </button>
+        </Link>
+        
         <h1>PROFILE</h1>
         <ProfilePicture/>
 
